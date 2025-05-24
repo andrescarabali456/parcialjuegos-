@@ -1,0 +1,17 @@
+Para poder hacer este proyecto de C++, sinceramente busqué mucha ayuda porque es la primera vez que hago algo así, y me daba miedo no entender todo o equivocarme. Me basé en varias páginas y videos que explican cómo usar las cosas que utilicé en el código. Aquí dejo las fuentes que me ayudaron para entender cada parte:
+
+. Para generar números aleatorios (#include <cstdlib> y rand()))
+Leí esta guía que explica cómo funciona cstdlib y qué hace rand() y srand():
+ https://www.incredibuild.com/blog/cstdlib-in-c-explained
+También lo revisé en Microsoft Learn porque ahí muestran ejemplos:
+ https://learn.microsoft.com/es-es/cpp/standard-library/cstdlib
+Para usar el tiempo como semilla de los números aleatorios (#include <ctime>)
+Para esta parte me ayudó esta página que explica qué hace time(0) y cómo se usa ctime:
+https://concentra.com.ar/libreria-ctime-c/
+Y también este video me ayudó a entender cómo se usa en un programa real:
+ https://www.youtube.com/watch?v=iInyK-S_ORU
+tambien debo aceptar que use la ia para poder ayudarme cuando no entendia algo en concreto o me sentia estancado
+
+
+
+
